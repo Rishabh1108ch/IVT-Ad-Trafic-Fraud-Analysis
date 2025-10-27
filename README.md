@@ -52,6 +52,18 @@ three that were **never marked as IVT (Invalid Traffic)**, and three that were *
 
 ---
 
+
+
+## 📊 Power BI Dashboard
+
+Here’s a snapshot of the Power BI dashboard created for the IVT Ad Traffic Fraud Analysis project:
+
+![Power BI Dashboard Screenshot 1](https://github.com/Rishabh1108ch/IVT-Ad-Trafic-Fraud-Analysis/blob/main/PowerBI%20Screenshot%201.png)
+
+![Power BI Dashboard Screenshot 2](https://github.com/Rishabh1108ch/IVT-Ad-Trafic-Fraud-Analysis/blob/main/PowerBI%20Screenshot%202.png)
+
+
+
 ## 📊 5. Observed Traffic Patterns
 
 ### 🟢 Non-IVT Apps (App1–App3)
