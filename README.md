@@ -124,6 +124,13 @@ Here’s a snapshot of the Power BI dashboard created for the IVT Ad Traffic Fra
 - Apps that **rapidly increased UA diversity** or **showed uncorrelated IDFA growth** triggered IVT flags.  
 - **Early IVT detection** corresponds to rapid anomalies; **late IVT** occurs after gradual drift.  
 - Monitoring UA ratio trends enables **predictive IVT risk detection**.
+- 
+## 🚀 Ad Traffic Fraud Detection and IVT Analysis using Python & Power BI  
+- Analyzed **14M+ ad requests** and **12M+ unique identifiers** across six mobile apps to assess traffic integrity and fraud risk.  
+- Identified **App 6** with **IVT > 0.85** and strong **IVT–IDFA correlation (r = 0.82)**, indicating abnormal traffic patterns.  
+- Delivered **fraud detection insights** by integrating **Python analytics** with **Power BI** for real-time anomaly monitoring.  
+- Built **Power BI dashboards** visualizing daily/hourly metrics and uncovering **2× nocturnal traffic surges (00–02 hrs)**.  
+
 
 ---
 
